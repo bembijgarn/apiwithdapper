@@ -1,0 +1,12 @@
+C:\Users\lasha\source\repos\BS_API\BS_API.DATA\bin\Debug\net5.0\BS_API.DATA.deps.json
+C:\Users\lasha\source\repos\BS_API\BS_API.DATA\bin\Debug\net5.0\BS_API.DATA.dll
+C:\Users\lasha\source\repos\BS_API\BS_API.DATA\bin\Debug\net5.0\BS_API.DATA.pdb
+C:\Users\lasha\source\repos\BS_API\BS_API.DATA\obj\Debug\net5.0\BS_API.DATA.csproj.AssemblyReference.cache
+C:\Users\lasha\source\repos\BS_API\BS_API.DATA\obj\Debug\net5.0\BS_API.DATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasha\source\repos\BS_API\BS_API.DATA\obj\Debug\net5.0\BS_API.DATA.AssemblyInfoInputs.cache
+C:\Users\lasha\source\repos\BS_API\BS_API.DATA\obj\Debug\net5.0\BS_API.DATA.AssemblyInfo.cs
+C:\Users\lasha\source\repos\BS_API\BS_API.DATA\obj\Debug\net5.0\BS_API.DATA.csproj.CoreCompileInputs.cache
+C:\Users\lasha\source\repos\BS_API\BS_API.DATA\obj\Debug\net5.0\BS_API.DATA.dll
+C:\Users\lasha\source\repos\BS_API\BS_API.DATA\obj\Debug\net5.0\refint\BS_API.DATA.dll
+C:\Users\lasha\source\repos\BS_API\BS_API.DATA\obj\Debug\net5.0\BS_API.DATA.pdb
+C:\Users\lasha\source\repos\BS_API\BS_API.DATA\obj\Debug\net5.0\ref\BS_API.DATA.dll

@@ -1,0 +1,12 @@
+C:\Users\lasha\source\repos\BS_API\BS_API.DOMAIN\bin\Debug\net5.0\BS_API.DOMAIN.deps.json
+C:\Users\lasha\source\repos\BS_API\BS_API.DOMAIN\bin\Debug\net5.0\BS_API.DOMAIN.dll
+C:\Users\lasha\source\repos\BS_API\BS_API.DOMAIN\bin\Debug\net5.0\BS_API.DOMAIN.pdb
+C:\Users\lasha\source\repos\BS_API\BS_API.DOMAIN\obj\Debug\net5.0\BS_API.DOMAIN.csproj.AssemblyReference.cache
+C:\Users\lasha\source\repos\BS_API\BS_API.DOMAIN\obj\Debug\net5.0\BS_API.DOMAIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasha\source\repos\BS_API\BS_API.DOMAIN\obj\Debug\net5.0\BS_API.DOMAIN.AssemblyInfoInputs.cache
+C:\Users\lasha\source\repos\BS_API\BS_API.DOMAIN\obj\Debug\net5.0\BS_API.DOMAIN.AssemblyInfo.cs
+C:\Users\lasha\source\repos\BS_API\BS_API.DOMAIN\obj\Debug\net5.0\BS_API.DOMAIN.csproj.CoreCompileInputs.cache
+C:\Users\lasha\source\repos\BS_API\BS_API.DOMAIN\obj\Debug\net5.0\BS_API.DOMAIN.dll
+C:\Users\lasha\source\repos\BS_API\BS_API.DOMAIN\obj\Debug\net5.0\refint\BS_API.DOMAIN.dll
+C:\Users\lasha\source\repos\BS_API\BS_API.DOMAIN\obj\Debug\net5.0\BS_API.DOMAIN.pdb
+C:\Users\lasha\source\repos\BS_API\BS_API.DOMAIN\obj\Debug\net5.0\ref\BS_API.DOMAIN.dll
